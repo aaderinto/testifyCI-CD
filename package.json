@@ -1,0 +1,19 @@
+{
+  "name": "testifyci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codingChallenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaderinto/testifyCI-CD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaderinto/testifyCI-CD/issues"
+  },
+  "homepage": "https://github.com/aaderinto/testifyCI-CD#readme"
+}
